@@ -11,11 +11,10 @@ This project is focused on providing a Ride Data Summary.The written report summ
 1. In the graph above shows the distinct separation of Rural, Urban and Suburban city types.
 2. The Urban cities fare is the highest between the months of January till April.
 3. The Rural cities fare is the lowest of the other two city types and similar to Urban and Suburban city types trend, the fares never intersect.
-4. Although the fares never intersect, the Urban fares start at average of $1,800 and continued to increase as the months went by to ~$2,300.  The Suburban fares on the other    hand started ~$1,000, the trend was not consistently profitable as the fare dropped in March and even lower at mid-April.  The Rural fares started at ~$200, consistent increase and drop of fares till the end of April.  
-  - Ride Count(Urban:Suburban:Rural - 2405:490:78)
-  - Driver Count(Urban:Suburban:Rural) - 1625:625:125
+4. Although the fares never intersect, the Urban fares start at average of $1,800 and continued to increase as the months went by to ~$2,300.  The Suburban fares on the other    hand started ~$1,000, the trend was not consistently profitable as the fare dropped in March and even lower at mid-April.  The Rural fares started at ~$200, consistent increase and drop of fares till the end of April.
+5. The above stattistics and trends are based on the below Ride and Drive count
+   - Ride Count **(Urban:Suburban:Rural - 2405:490:78)
+   - Driver Count **(Urban:Suburban:Rural - 1625:625:125) 
                                                                                                                                                                      
 ### Summary
-1. When comparing the trends between the 3 City Types all three types are consistent across all months based on the respective ride and drive count. The reason Urban had highest fares awhen compared to other City Type is that Urban has the highest drive and ride count. The recommendation to the CEO is to increase the business operations in Surbanan and Rural to see higher fare price trents. 
-* 
-
+Looking at the above statistis it is clear that Urban city type has a higher operations when compared to other two city types. Even though the Urban city Type is showing the highest fares, When comparing the trends between the 3 City Types all three types are consistent across all months based on the respective ride and drive count. Based on this I recomment to increase the operations in other 2 cities to see a higher fairs. 
